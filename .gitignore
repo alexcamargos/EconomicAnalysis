@@ -449,3 +449,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # END OF GLOBAL GITIGNORE
+
+# LOCAL GITIGNORE
+dados-abertos-anp\data\*
